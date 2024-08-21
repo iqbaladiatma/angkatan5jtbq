@@ -1,0 +1,52 @@
+#gallery {
+  background: linear-gradient(135deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(225deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(315deg, #000000 25%, transparent 25%),
+    linear-gradient(45deg, #000000 25%, transparent 25%);
+  background-size: 54px 54px;
+  background-color: #243236;
+}
+.nav {
+  color: #17202a;
+}
+
+.jumbotron {
+  background: linear-gradient(135deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(225deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(315deg, #000000 25%, transparent 25%),
+    linear-gradient(45deg, #000000 25%, transparent 25%);
+  background-size: 54px 54px;
+  background-color: #243236;
+  color: white;
+}
+#about {
+  background: linear-gradient(135deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(225deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(315deg, #000000 25%, transparent 25%),
+    linear-gradient(45deg, #000000 25%, transparent 25%);
+  background-size: 54px 54px;
+  background-color: #243236;
+  color: white;
+}
+
+.card {
+  background-color: #17202a;
+  color: white;
+}
+h3 {
+  color: white;
+}
+#contact {
+  border: none;
+  background: linear-gradient(135deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(225deg, #000000 25%, transparent 25%) -27px 0, linear-gradient(315deg, #000000 25%, transparent 25%),
+    linear-gradient(45deg, #000000 25%, transparent 25%);
+  background-size: 54px 54px;
+  background-color: #243236;
+  color: white;
+}
+section {
+  padding-top: 9rem;
+}
+
+footer {
+  background-color: #17202a;
+}
+.ga-maamli-regular {
+  font-family: "Ga Maamli", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+}
